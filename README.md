@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KavarMan/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/KavarMan/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KavarMan/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/KavarMan/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/KavarMan/DAA-Assignment/tree/master/0162-find-peak-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KavarMan/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavarMan/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/KavarMan/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavarMan/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KavarMan/DAA-Assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
